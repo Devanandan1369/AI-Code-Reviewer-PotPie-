@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+celery
+redis
+litellm
+requests
+python-dotenv
+pytest
+requests-mock
